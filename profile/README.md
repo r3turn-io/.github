@@ -10,11 +10,11 @@ We work with public, commercial and machine-readable signals to help companies u
 
 R3TURN operates through two primary intelligence products:
 
-### Brand Intelligence
+### [Brand Intelligence](https://www.r3turn.io/en/brand-intelligence)
 
 Examines how a company is read across public digital surfaces, search systems and AI systems, and identifies gaps between its real operational capability and what can be externally discovered, interpreted and verified.
 
-### Growth Engine
+### [Growth Engine](https://www.r3turn.io/en/growth-engine)
 
 Uses market, demand, trade, competitive, company and timing signals to support market prioritization and commercial opportunity analysis.
 
